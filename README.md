@@ -7,8 +7,6 @@
 
 ⚐ Based in Proxima Centauri b
 
-ϟ Currently working @nutrio.care
-
 <a href="https://app.daily.dev/Metratrj"><img src="https://github.com/Metratrj/Metratrj/raw/main/devcard.svg" width="400" alt="Johannes Grimm's Dev Card"/></a>
 
  ## Skills
