@@ -22,7 +22,7 @@
     <img alt="Metratrj-MariaDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
     <img alt="Metratrj-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img alt="Metratrj-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
-    <img alt="Metratrj-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original.svg" />
+    <img alt="Metratrj-NPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
     <img alt="Metratrj-PNPM" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pnpm/pnpm-original.svg" />
     <img alt="Metratrj-NuGet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />    
     <img alt="Metratrj-SSH" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original.svg" />
@@ -33,7 +33,7 @@
   <h3>I'm currently studying</h3>  
     <img alt="Metratrj-Rust" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
     <img alt="Metratrj-Redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />  
-    <img alt="Metratrj-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgres/postgres-original.svg" />
+    <img alt="Metratrj-Postgres" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
     <img alt="Metratrj-Nextjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
 
   <h3>Tools I've used</h3>
