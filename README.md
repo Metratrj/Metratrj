@@ -1,8 +1,6 @@
 <h1 align="center">Moin, I'm Johannes Grimm 👋</h1>
-<small align="center"> ⚐ Based in Proxima Centauri b </small>
 
 <p align="center">I love the art of programming since my youth. For a few years, I have been studying programming on and off.</p>
-
 <p align="center">Learning every day, getting better every day. Feel free to reach me always. Looking forward to exchange knowledge.</p>
 
 <div align="center">
@@ -62,25 +60,4 @@
 ##
 <div align="center" style="display: inline_block">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Metratrj&show_icons=true&theme=radical">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Metratrj&layout=donut&theme=radical">
 </div>
-
-
-
-
-
-
-
-# 
-### Working mainly with C# and Typescript in the Angular Framework.
-
-
-
- <a aligh="left" href="mailto:grimmjohannes1998@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
-
-
-
-<a href="https://app.daily.dev/Metratrj"><img src="https://github.com/Metratrj/Metratrj/raw/main/devcard.svg" width="400" alt="Johannes Grimm's Dev Card"/></a>
-
- ## Skills
-   <a href="https://cplusplus.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/cplus.svg" alt="C++" width="25" height="25" /></a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/csharp.svg" alt="C#" width="25" height="25" /></a> <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://angularjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/angular.svg" alt="Angular" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a> 
