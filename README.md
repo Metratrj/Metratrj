@@ -1,5 +1,5 @@
 <h1 align="center">Moin, I'm Johannes Grimm 👋</h1>
-<h1 align="center"><small> ⚐ Based in Proxima Centauri b </small></h1>
+<small align="center"> ⚐ Based in Proxima Centauri b </small>
 
 <p align="center">I love the art of programming since my youth. For a few years, I have been studying programming on and off.</p>
 
