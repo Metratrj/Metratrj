@@ -6,7 +6,7 @@
 <div align="center">
   <div style="display: inline_block"><br>
   <h3>I've already work with</h3>
-    <div class="flex-wrap">
+    <div style="flex-wrap:warp; max-width: 600px; display:flex; justify-content:center;">
       <img alt="Metratrj-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
       <img alt="Metratrj-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
       <img alt="Metratrj-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
